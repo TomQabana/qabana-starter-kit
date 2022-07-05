@@ -1,0 +1,7 @@
+export_paths:
+  - content
+  - resources/blueprints
+  - resources/scss
+  - resources/js
+  - resources/views
+  - package.json

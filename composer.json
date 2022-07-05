@@ -1,0 +1,9 @@
+{
+    "name": "TomQabana/qabana-starter-kit",
+    "extra": {
+        "statamic": {
+            "name": "Qabana Starter Kit",
+            "description": "Qabana Starter Kit starter kit"
+        }
+    }
+}

@@ -1,0 +1,1 @@
+statamic new projectname qabana/qabana-starter-kit --local
