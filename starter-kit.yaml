@@ -5,3 +5,4 @@ export_paths:
   - resources/js
   - resources/views
   - package.json
+  - webpack.mix.js
